@@ -1,4 +1,4 @@
-### Hi there 👋    
+### Hi, there! 👋    
      
 <!-- <div align=center> -->
      
@@ -9,7 +9,6 @@
 </div>
      
       
-<sub><sup>Written by </sup><sup>@DeepxHyeon</sup></sub>   
     
     
 <!--
