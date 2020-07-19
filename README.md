@@ -2,7 +2,7 @@
      
 <!-- <div align=center> -->
      
-<img align=“center” alt="gif" src="https://data.whicdn.com/images/240236127/original.gif">   
+<img align=“center” alt="gif" width="300" height="222" src="https://data.whicdn.com/images/240236127/original.gif">   
    
     
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://deepxhyeon.github.io/)](https://deepxhyeon.github.io/) 
